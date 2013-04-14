@@ -1,0 +1,19 @@
+AAA,progname,nmon
+AAA,command,nmon -f -s 30 -c 180 
+AAA,version,12a
+AAA,disks_per_line,150
+AAA,max_disks,256,set by -d option
+AAA,disks,11,
+AAA,host,localhost
+AAA,user,root
+AAA,OS,Linux,2.6.18-348.3.1.el5,#1 SMP Mon Mar 11 19:40:14 EDT 2013,i686
+AAA,runname,localhost
+AAA,time,15:38.33
+AAA,date,14-APR-2013
+AAA,interval,30
+AAA,snapshots,180
+AAA,cpus,2,2
+AAA,proc_stat_variables,8
+AAA,note0, Warning - use the UNIX sort command to order this file before loading into a spreadsheet
+AAA,note1, The First Column is simply to get the output sorted in the right order
+AAA,note2, The T0001-T9999 column is a snapshot number. To work out the actual time; see the ZZZ section at the end
